@@ -1,0 +1,12 @@
+#drawing-block {
+    border: 1px solid darkgray;
+    float: left;
+}
+
+.in-poly {
+    color: #00d221;
+}
+
+.out-poly {
+    color: #f00;
+}
